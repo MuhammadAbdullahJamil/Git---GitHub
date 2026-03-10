@@ -1,0 +1,12 @@
+ls
+ls -l
+git init
+ls -a
+git status
+git add Exercise1.py
+git rm --cached Exercise1.py
+git add .
+git commit -m "Added Exercise Files"
+rm Exercise1.py
+git restore Exercise1.py
+clear
