@@ -10,3 +10,7 @@ git commit -m "Added Exercise Files"
 rm Exercise1.py
 git restore Exercise1.py
 clear
+git remote -v
+git push origin master
+git remote set-url origin https://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@github.com/MuhammadAbdullahJamil/Git---GitHub.git 
+git push origin master 
